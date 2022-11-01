@@ -1,12 +1,12 @@
-.fieldset {
+.field-fieldset {
   margin-bottom: 20px;
 }
 
-.input {
+.field-input {
   display: block;
   margin-bottom: 10px;
 }
 
-.input:last-child {
+.field-input:last-child {
   margin-bottom: 0;
 }
